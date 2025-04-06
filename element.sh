@@ -30,3 +30,5 @@ PSQL="psql --username=freecodecamp --dbname=periodic_table -t --no-align -c"
 
 git remote add origin https://github.com/DREAM-finder/periodic_table_freecodecamp.git
 git push -u origin main
+
+git commit -m "feat: Add element.sh script"
