@@ -32,3 +32,5 @@ git remote add origin https://github.com/DREAM-finder/periodic_table_freecodecam
 git push -u origin main
 
 git commit -m "feat: Add element.sh script"
+
+git commit -m "refactor: Improve SQL query performance"
